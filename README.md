@@ -3,3 +3,4 @@ Library Management System
 "- View books" 
 "- Issue books" 
 "- Return books" 
+"- Search books by title" 
